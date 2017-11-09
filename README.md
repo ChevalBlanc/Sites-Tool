@@ -37,3 +37,9 @@ Build it:<br>
 
 ## Feedback
 If there are some problems or bugs, please call me +86-18615795066
+Thanks for<br>
+https://boutell.com/cgic/<br>
+http://libctemplate.sourceforge.net<br>
+
+Donation address<br>
+paypal:Evariste_Galois@iCloud.com
