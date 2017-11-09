@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+	<key>Identifier</key>
+	<string>com.apple.dt.unit.cocoaApplicationUnitCGICBase</string>
+	<key>Ancestors</key>
+	<array>
+		<string>com.apple.dt.unit.osxUnitCGICBundleBase</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>CGICBased</string>
+			<key>Name</key>
+			<string>Include Unit CGIC</string>
+			<key>NotPersisted</key>
+			<false/>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<string>true</string>
+			<key>Units</key>
+			<dict>
+				<key>true</key>
+				<array>
+					<dict>
+						<key>Nodes</key>
+						<array>
+							<string>CGIC/cgic.h</string>
+							<string>CGIC/cgic.c</string>
+						</array>
+						<key>Definitions</key>
+						<dict>
+							<key>CGIC/cgic.h</key>
+							<dict>
+								<key>Path</key>
+								<string>cgic.h</string>
+								<key>SortOrder</key>
+								<integer>98</integer>
+							</dict>
+							<key>CGIC/cgic.c</key>
+							<dict>
+								<key>Path</key>
+								<string>cgic.c</string>
+								<key>SortOrder</key>
+								<integer>98</integer>
+							</dict>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
